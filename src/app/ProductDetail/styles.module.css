@@ -4,6 +4,13 @@
   margin-top: 42px;
 }
 
+@media only screen
+and (min-width: 375px) {
+  .container {
+    display: grid;
+  }
+}
+
 .image {
   width: 100%;
   flex: 1;
