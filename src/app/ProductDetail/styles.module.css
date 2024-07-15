@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  gap: 22px;
+  margin-top: 42px;
+}
+
+.image {
+  width: 100%;
+  flex: 1;
+  background-color: black;
+  min-height: 320px;
+  border-radius: 12px;
+}
+
+.details {
+  width: 100%;
+  flex: 1;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

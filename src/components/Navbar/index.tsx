@@ -20,7 +20,7 @@ export function Navbar() {
 
   return (
     <nav className={styles.container}>
-      <a href="/">
+      <a href="/" className={styles.title}>
         <span>Home</span>
       </a>
 

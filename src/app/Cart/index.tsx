@@ -2,9 +2,10 @@ import { useCart } from '../../hooks/useCart'
 
 import { Divider } from '@mui/material'
 import { Add, Remove } from '@mui/icons-material'
+import IconButton from '@mui/material/IconButton'
+
 import { CartItem } from '../../types/cart'
 
-import IconButton from '@mui/material/IconButton'
 import DeleteSweepIcon from '@mui/icons-material/DeleteSweep'
 
 import styles from './styles.module.css'
