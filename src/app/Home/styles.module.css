@@ -1,0 +1,12 @@
+.container {
+  width: 100;
+}
+
+.productList {
+  margin-top: 42px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+  overflow: hidden;
+}

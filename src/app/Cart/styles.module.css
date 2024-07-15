@@ -1,0 +1,21 @@
+.content {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.details {
+  min-width: 380px;
+}
+
+@media only screen
+and (min-width: 375px) {
+  .details {
+    min-width: 220px;
+  }
+}
+
+.total {
+  font-size: 18px;
+  font-weight: bold;
+}

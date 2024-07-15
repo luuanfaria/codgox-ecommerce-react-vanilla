@@ -11,16 +11,19 @@ O código deve ser hospedado em um repositório público no GitHub, contendo um 
 Estrutura do Projeto
 Lista de Produtos (Home)
 
-Página inicial que exibe uma lista de produtos.
-Cada produto deve ter um botão para ver detalhes e um botão para adicionar ao carrinho.
-Detalhes do Produto
+- Página inicial que exibe uma lista de produtos.
+- Cada produto deve ter um botão para ver detalhes e um botão para adicionar ao carrinho.
+- Detalhes do Produto
 
+Página detalhes do produto:
 Página que exibe os detalhes de um produto selecionado.
-Deve haver um botão para adicionar o produto ao carrinho.
-Carrinho de Compras
+  . Deve haver um botão para adicionar o produto ao carrinho.
 
+Página de compras:
 Página que exibe os itens adicionados ao carrinho.
+
 Deve ser possível aumentar ou diminuir a quantidade de cada item.
+
 Deve ser possível remover itens do carrinho.
 Mostrar o valor total da compra.
 Funcionalidades Esperadas

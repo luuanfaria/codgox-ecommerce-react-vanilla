@@ -1,9 +1,4 @@
-interface Item {
-  id: number
-  nome: string
-  preco: number
-  descricao: string
-}
+import { Item } from '../types/product'
 
 export const itemsParaCompra: Item[] = [
   {
